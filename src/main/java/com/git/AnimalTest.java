@@ -1,4 +1,4 @@
-package git;
+package com.git;
 
 /**
  * @Author: luner
