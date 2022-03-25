@@ -18,9 +18,6 @@ public class AnimalTest{
     }
 }
 class Animal {
-    String name;
-    int age;
-
     public void eat(){
         System.out.println("吃饭");
     }
